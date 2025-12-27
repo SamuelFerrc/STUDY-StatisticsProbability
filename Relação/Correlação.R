@@ -1,0 +1,1 @@
+cor(x,y, method = "pearson")
